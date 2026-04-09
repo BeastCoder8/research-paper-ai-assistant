@@ -1,0 +1,8 @@
+streamlit
+nltk
+scikit-learn
+networkx
+gensim
+numpy
+PyPDF2
+python-pptx
